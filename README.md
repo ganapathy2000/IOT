@@ -8,3 +8,4 @@ TEMP & HUM:
 https://wokwi.com/projects/334347223081943635<br>
 us:https://wokwi.com/projects/334343126477963859<br>
 pir: https://wokwi.com/projects/334346049182237266<br>
+ir:https://wokwi.com/projects/334347736682857042<br>
