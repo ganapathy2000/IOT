@@ -4,5 +4,7 @@
 3.https://wokwi.com/projects/333801274561528403<br>
 4.https://wokwi.com/projects/333806173307273812<br>
 tempature & humadity sensor  : https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor<br>
+TEMP & HUM:
+https://wokwi.com/projects/334347223081943635<br>
 us:https://wokwi.com/projects/334343126477963859<br>
 pir: https://wokwi.com/projects/334346049182237266<br>
