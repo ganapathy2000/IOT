@@ -3,3 +3,4 @@
 2.https://wokwi.com/projects/333797944251646547
 3.https://wokwi.com/projects/333801274561528403
 4.https://wokwi.com/projects/333806173307273812
+tempature & humadity sensor  : https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor
