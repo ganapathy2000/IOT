@@ -9,3 +9,9 @@ https://wokwi.com/projects/334347223081943635<br>
 us:https://wokwi.com/projects/334343126477963859<br>
 pir: https://wokwi.com/projects/334346049182237266<br>
 ir:https://wokwi.com/projects/334347736682857042<br>
+motion sensor buzzer:https://wokwi.com/projects/334433831716127314<br>
+button fade:https://wokwi.com/projects/334431341587202643<br>
+Button LED
+https://wokwi.com/projects/334430962204017236<br>
+
+
