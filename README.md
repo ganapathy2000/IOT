@@ -15,5 +15,8 @@ Button LED
 https://wokwi.com/projects/334430962204017236<br>
 Ultrasonic Sensor LED
 https://wokwi.com/projects/334434377002910291<br>
+Servo motor<br>
+https://wokwi.com/projects/334975025852449363<br>
+
 
 
