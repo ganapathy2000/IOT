@@ -16,7 +16,7 @@ https://wokwi.com/projects/334430962204017236<br>
 Ultrasonic Sensor LED
 https://wokwi.com/projects/334434377002910291<br>
 Servo motor<br>
-https://wokwi.com/projects/334975025852449363<br>
+https://wokwi.com/projects/334976704649888340<br>
 Servo motor controlled by potentiometer<br>
 https://wokwi.com/projects/334978058200023635<br>
 
