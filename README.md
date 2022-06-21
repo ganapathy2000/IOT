@@ -22,5 +22,5 @@ https://wokwi.com/projects/334978058200023635<br>
 
 Servo motor controlled by button<br>
 https://wokwi.com/projects/334977135889351250<br>
-
-
+BUZZER USING RESISTOR:<br>>
+https://wokwi.com/projects/335066265290801748<br>
