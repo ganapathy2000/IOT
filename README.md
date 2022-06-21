@@ -24,3 +24,4 @@ Servo motor controlled by button<br>
 https://wokwi.com/projects/334977135889351250<br>
 BUZZER USING RESISTOR:<br>>
 https://wokwi.com/projects/335066265290801748<br>
+Buzzer with push button: https://wokwi.com/projects/335067311309324884<br>
