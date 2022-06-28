@@ -22,8 +22,8 @@ https://wokwi.com/projects/334978058200023635<br>
 
 Servo motor controlled by button<br>
 https://wokwi.com/projects/334977135889351250<br>
-BUZZER USING RESISTOR:<br>>
+BUZZER USING RESISTOR:<br>
 https://wokwi.com/projects/335066265290801748<br>
 Buzzer with push button: https://wokwi.com/projects/335067311309324884<br>
-Arduino RGB LED:https://wokwi.com/projects/333805042897257042
-ardunio using us using buzzer and Led:https://wokwi.com/projects/335610455923884628
+Arduino RGB LED:https://wokwi.com/projects/333805042897257042<br>
+ardunio using us using buzzer and Led:https://wokwi.com/projects/335610455923884628<br>
