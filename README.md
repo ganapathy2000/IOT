@@ -27,3 +27,9 @@ https://wokwi.com/projects/335066265290801748<br>
 Buzzer with push button: https://wokwi.com/projects/335067311309324884<br>
 Arduino RGB LED:https://wokwi.com/projects/333805042897257042<br>
 ardunio using us using buzzer and Led:https://wokwi.com/projects/335610455923884628<br>
+https://wokwi.com/projects/342586666245947988 - Seven segment LED display example<br>
+https://wokwi.com/projects/342589963426071124 - Analog Joystick with two axes<br>
+https://wokwi.com/projects/290056311044833800 - Display distance on LCD screen with buzzer and LED<br>
+https://wokwi.com/projects/290043622233997832 - Display distance on LCD screen with buzzer and LED<br>
+https://wokwi.com/projects/342592140210078291 - Electronic Safe, powered by an Arduino Uno<br>
+https://wokwi.com/projects/309829489359061570 - Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs Reference<br>
